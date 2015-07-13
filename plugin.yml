@@ -1,0 +1,5 @@
+name: Koth2BarAPI
+main: subside.plugins.koth2barapi.Koth2BarAPI
+version: 1.0.0
+author: SubSide
+depend: [KoTH, BossBarAPI]
